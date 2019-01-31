@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\add Barcode in Report
-\Insert barcode into PDF document
-\Save barcode as PNG image file
+\Add Barcode in Report
+\Insert Barcode Into PDF Document
+\Save Barcode as PNG Image File
